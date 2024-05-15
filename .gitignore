@@ -1,2 +1,4 @@
 .conda
 output/*/_internal
+reduced-noise.wav
+output/
